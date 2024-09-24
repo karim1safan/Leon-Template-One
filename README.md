@@ -24,9 +24,9 @@ This is a responsive website project that I built using HTML, CSS, and popular l
 
 ## Demo
 [Demo Link](https://karim1safan.github.io/Leon-Template-One/)
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-3.png)
-![alt text](image-4.png)
-![alt text](image-5.png)
+![alt text](Demo/image.png)
+![alt text](Demo/image-1.png)
+![alt text](Demo/image-2.png)
+![alt text](Demo/image-3.png)
+![alt text](Demo/image-4.png)
+![alt text](Demo/image-5.png)
